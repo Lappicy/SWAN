@@ -1,0 +1,15 @@
+item	value
+matched_station_pairs	2744
+matched_pairs_with_v16_id	2737
+matched_pairs_without_v16_id	7
+WSE_offset_station_pairs	446
+WSE_all_rows	21659
+WSE_all_station_pairs	446
+WSE_quality_passing_rows_before_station_min12	7224
+WSE_station_pairs_with_any_quality_pass	276
+WSE_quality_rows_in_min12_station_subset	6877
+WSE_quality_station_pairs_min_12	231
+discharge_rows_with_ANA_coincidence	67226
+discharge_station_pairs_with_any_DAWG	1918
+discharge_pairs_DAWG_min_12_one_model	1878
+discharge_pairs_min_12_coincident_one_model	515
